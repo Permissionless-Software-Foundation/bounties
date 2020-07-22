@@ -1,5 +1,5 @@
 # PSF Bounties
-This is a non-code repository. The GitHub Issues for this repo are used to track bounties that have been funded through [PSF Grants](https://psfoundation.cash/grants/):
+This is a non-code repository. The GitHub [Issues](https://github.com/Permissionless-Software-Foundation/bounties/issues) and [Projects](https://github.com/Permissionless-Software-Foundation/bounties/projects) for this repo are used to track bounties that have been funded through [PSF Grants](https://psfoundation.cash/grants/):
 
 - [Collaborative CoinJoin](https://github.com/Permissionless-Software-Foundation/bounties/issues/2)
 - [Tor List](https://github.com/Permissionless-Software-Foundation/bounties/issues/1)
