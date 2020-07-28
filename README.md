@@ -10,11 +10,6 @@ This is a non-code repository. The GitHub [Issues](https://github.com/Permission
 - [Refactor slp-cli-wallet](https://github.com/Permissionless-Software-Foundation/bounties/issues/7)
 
 ## Ready Bounties
-The following bounties are ready for developers to start. To claim the bounty, you must first state your intention on the [PSF Telegram Channel](https://github.com/Permissionless-Software-Foundation/bounties/issues/7). PSF management will assess your skills and history. If you are approved to work on a bounty, the bounty will be tagged with your name. This process ensures that bounties are accomplished in a reasonable time frame and are well matched to a developers skill set. It also provides a chance for senior developers to mentor junior developers.
+To find bounty-tagged tasks that are ready to claim, look at the [Bounty Tasks Kanban board](https://github.com/Permissionless-Software-Foundation/bounties/projects/1). Any tasks with the `Ready` label and in the `Backlog` column, are open and can be claimed by anyone.
 
-### Bounties
-- [SLP E2E Test](https://github.com/Permissionless-Software-Foundation/bounties/issues/6) - Bounty: 1297 PSF Tokens
-- [slp-cli-wallet Refactor](https://github.com/Permissionless-Software-Foundation/bounties/issues/8) - Bounty: 1250 PSF Tokens
-
-### Projects
-- [Tor List](https://github.com/Permissionless-Software-Foundation/bounties/issues/1) - Bounty: 1666 PSF Tokens per month
+To claim the bounty, you must first state your intention on the [PSF Telegram Channel](https://github.com/Permissionless-Software-Foundation/bounties/issues/7). PSF management will assess your skills and history. If you are approved to work on a bounty, the bounty will be tagged with your name. This process ensures that bounties are accomplished in a reasonable time frame and are well matched to a developers skill set. It also provides a chance for senior developers to mentor junior developers.
