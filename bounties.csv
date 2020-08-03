@@ -1,4 +1,4 @@
-Grant,Description,Bounty,State,GitHub Issue,Assigned To,Profile
+Grant,Description,Bounty (in PSF tokens),State,GitHub Issue,Assigned To,Profile
 ElectrumX,Unconfirmed endpoint for bch-api,200,In Review,https://github.com/Permissionless-Software-Foundation/bch-api/issues/2,Stoyan,https://github.com/zh
 ElectrumX,unconfirmed Explorer UI,150,In Review,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/46,Stoyan,https://github.com/zh
 ElectrumX,unconfirmed bch-js,250,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/2,Stoyan,https://github.com/zh
