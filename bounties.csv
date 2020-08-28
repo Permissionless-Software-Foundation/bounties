@@ -8,9 +8,9 @@ ElectrumX,raw-tx bch-js,250,Ready,https://github.com/Permissionless-Software-Fou
 ElectrumX,broadcast bch-api,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-api/issues/6,,
 ElectrumX,broadcast Explorer UI,150,Not Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/49,,
 ElectrumX,broadcast bch-js,250,Not Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/5,,
-ElectrumX,block header bch-api,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-api/issues/7,,
-ElectrumX,block header Explorer UI,150,Not Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/50,,
-ElectrumX,block header bch-js,250,Not Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/6,,
+ElectrumX,block header bch-api,200,Done,https://github.com/Permissionless-Software-Foundation/bch-api/issues/7,Rosco,https://github.com/rkalis
+ElectrumX,block header Explorer UI,150,Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/50,,
+ElectrumX,block header bch-js,250,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/6,,
 ElectrumX,merkle branch bch-api,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-api/issues/9,,
 ElectrumX,merkle branch Explorer UI,150,Not Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/51,,
 ElectrumX,merkle branch bch-api,250,Not Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/7,,
