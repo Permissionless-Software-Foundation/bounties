@@ -18,3 +18,6 @@ Ninsight,Address details,200,Ready,https://github.com/Permissionless-Software-Fo
 Ninsight,Unconfirmed UTXOs,150,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/11,,
 Ninsight,TX History,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/12,,
 Ninsight,TX Details,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/13,,
+Slp-cli-wallet,Get list-wallets command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/20,,
+Slp-cli-wallet,Get create-wallet command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/21,,
+Slp-cli-wallet,Get get-address command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/22,,
