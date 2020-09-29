@@ -21,4 +21,4 @@ Ninsight,TX Details,200,Ready,https://github.com/Permissionless-Software-Foundat
 Slp-cli-wallet,Get list-wallets command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/20,,
 Slp-cli-wallet,Get create-wallet command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/21,,
 Slp-cli-wallet,Get get-address command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/22,,
-Explorer UI,Point Explorer UI at Free Tier,100,Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/56,,
+Explorer UI,Point Explorer UI at Free Tier,100,Done,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/56,Stoyan,https://github.com/zh
