@@ -5,9 +5,9 @@ ElectrumX,unconfirmed bch-js,250,Done,https://github.com/Permissionless-Software
 ElectrumX,raw-tx bch-api,200,Done,https://github.com/Permissionless-Software-Foundation/bch-api/issues/5,Rosco,https://github.com/rkalis
 ElectrumX,raw-tx Explorer UI,150,Done,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/48,Stoyan,https://github.com/zh
 ElectrumX,raw-tx bch-js,250,Done,https://github.com/Permissionless-Software-Foundation/bch-js/issues/4,Stoyan,https://github.com/zh
-ElectrumX,broadcast bch-api,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-api/issues/6,,
-ElectrumX,broadcast Explorer UI,150,Not Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/49,,
-ElectrumX,broadcast bch-js,250,Not Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/5,,
+ElectrumX,broadcast bch-api,200,Done,https://github.com/Permissionless-Software-Foundation/bch-api/issues/6,Rosco,https://github.com/rkalis
+ElectrumX,broadcast Explorer UI,150,Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/49,,
+ElectrumX,broadcast bch-js,250,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/5,,
 ElectrumX,block header bch-api,200,Done,https://github.com/Permissionless-Software-Foundation/bch-api/issues/7,Rosco,https://github.com/rkalis
 ElectrumX,block header Explorer UI,150,Done,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/50,Stoyan,https://github.com/zh
 ElectrumX,block header bch-js,250,Done,https://github.com/Permissionless-Software-Foundation/bch-js/issues/6,Stoyan,https://github.com/zh
