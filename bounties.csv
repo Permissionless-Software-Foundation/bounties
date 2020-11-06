@@ -1,24 +1,11 @@
 Grant,Description,Bounty (in PSF tokens),State,GitHub Issue,Assigned To,Profile
-ElectrumX,Unconfirmed endpoint for bch-api,200,Done,https://github.com/Permissionless-Software-Foundation/bch-api/issues/2,Stoyan,https://github.com/zh
-ElectrumX,unconfirmed Explorer UI,150,Done,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/46,Stoyan,https://github.com/zh
-ElectrumX,unconfirmed bch-js,250,Done,https://github.com/Permissionless-Software-Foundation/bch-js/issues/2,Stoyan,https://github.com/zh
-ElectrumX,raw-tx bch-api,200,Done,https://github.com/Permissionless-Software-Foundation/bch-api/issues/5,Rosco,https://github.com/rkalis
-ElectrumX,raw-tx Explorer UI,150,Done,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/48,Stoyan,https://github.com/zh
-ElectrumX,raw-tx bch-js,250,Done,https://github.com/Permissionless-Software-Foundation/bch-js/issues/4,Stoyan,https://github.com/zh
-ElectrumX,broadcast bch-api,200,Done,https://github.com/Permissionless-Software-Foundation/bch-api/issues/6,Rosco,https://github.com/rkalis
-ElectrumX,broadcast Explorer UI,150,Done,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/49,Stoyan,https://github.com/zh
-ElectrumX,broadcast bch-js,250,Done,https://github.com/Permissionless-Software-Foundation/bch-js/issues/5,Stoyan,https://github.com/zh
-ElectrumX,block header bch-api,200,Done,https://github.com/Permissionless-Software-Foundation/bch-api/issues/7,Rosco,https://github.com/rkalis
-ElectrumX,block header Explorer UI,150,Done,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/50,Stoyan,https://github.com/zh
-ElectrumX,block header bch-js,250,Done,https://github.com/Permissionless-Software-Foundation/bch-js/issues/6,Stoyan,https://github.com/zh
-ElectrumX,merkle branch bch-api,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-api/issues/9,,
-ElectrumX,merkle branch Explorer UI,150,Not Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/51,,
-ElectrumX,merkle branch bch-api,250,Not Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/7,,
-Ninsight,Address details,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/10,,
-Ninsight,Unconfirmed UTXOs,150,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/11,,
-Ninsight,TX History,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/12,,
-Ninsight,TX Details,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/13,,
+Bch-api,merkle branch bch-api,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-api/issues/9,,
+Bch-api,merkle branch Explorer UI,150,Not Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/51,,
+Bch-js,merkle branch bch-api,250,Not Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/7,,
+Bch-js,Address details,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/10,,
+Bch-js,Unconfirmed UTXOs,150,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/11,,
+Bch-js,TX History,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/12,,
+Bch-js,TX Details,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/13,,
 Slp-cli-wallet,Get list-wallets command to 100% test coverage,100,In Progress,https://github.com/christroutner/slp-cli-wallet/issues/20,Stoyan,https://github.com/zh
 Slp-cli-wallet,Get create-wallet command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/21,,
 Slp-cli-wallet,Get get-address command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/22,,
-Explorer UI,Point Explorer UI at Free Tier,100,Done,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/56,Stoyan,https://github.com/zh
