@@ -1,13 +1,5 @@
 # PSF Bounties
-This is a non-code repository. The GitHub [Issues](https://github.com/Permissionless-Software-Foundation/bounties/issues) for this repo are used to track bounties that have been funded through [PSF Grants](https://psfoundation.cash/grants/):
-
-- [Collaborative CoinJoin](https://github.com/Permissionless-Software-Foundation/bounties/issues/2)
-- [Tor List](https://github.com/Permissionless-Software-Foundation/bounties/issues/1)
-- [Expand Ninsight Library in bch-js](https://github.com/Permissionless-Software-Foundation/bounties/issues/3)
-- [Expand ElectrumX Library in bch-js](https://github.com/Permissionless-Software-Foundation/bounties/issues/4)
-- [SLP E2E Test](https://github.com/Permissionless-Software-Foundation/bounties/issues/6)
-- [SLP Second Layer](https://github.com/Permissionless-Software-Foundation/bounties/issues/5)
-- [Refactor slp-cli-wallet](https://github.com/Permissionless-Software-Foundation/bounties/issues/7)
+This is a non-code repository. This repository is used to list and track code bounties that are funded by [PSF Grants](https://psfoundation.cash/grants/).
 
 ## Ready Bounties
 To find bounty-tagged tasks that are ready to claim, look at the [Bounty Task Spreadsheet](./bounties.csv) Any tasks with the `Ready` label are open and can be claimed by anyone.
