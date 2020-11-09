@@ -2,10 +2,10 @@ Grant,Description,Bounty (in PSF tokens),State,GitHub Issue,Assigned To,Profile
 Bch-api,merkle branch bch-api,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-api/issues/9,,
 Bch-api,merkle branch Explorer UI,150,Not Ready,https://github.com/Permissionless-Software-Foundation/jwt-bch-frontend/issues/51,,
 Bch-js,merkle branch bch-api,250,Not Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/7,,
-Bch-js,Address details,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/10,,
+Bch-js,Address details,200,In Progress,https://github.com/Permissionless-Software-Foundation/bch-js/issues/10,ChiliFeliz,
 Bch-js,Unconfirmed UTXOs,150,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/11,,
 Bch-js,TX History,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/12,,
 Bch-js,TX Details,200,Ready,https://github.com/Permissionless-Software-Foundation/bch-js/issues/13,,
 Slp-cli-wallet,Get list-wallets command to 100% test coverage,100,In Progress,https://github.com/christroutner/slp-cli-wallet/issues/20,Stoyan,https://github.com/zh
-Slp-cli-wallet,Get create-wallet command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/21,,
-Slp-cli-wallet,Get get-address command to 100% test coverage,100,Ready,https://github.com/christroutner/slp-cli-wallet/issues/22,,
+Slp-cli-wallet,Get create-wallet command to 100% test coverage,100,In Progress,https://github.com/christroutner/slp-cli-wallet/issues/21,Stoyan,https://github.com/zh
+Slp-cli-wallet,Get get-address command to 100% test coverage,100,In Progress,https://github.com/christroutner/slp-cli-wallet/issues/22,Stoyan,https://github.com/zh
