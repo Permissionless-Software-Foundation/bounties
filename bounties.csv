@@ -5,7 +5,7 @@ Bch-js,merkle branch bch-api,250,Not Ready,https://github.com/Permissionless-Sof
 Bch-js,Address details,200,In Progress,https://github.com/Permissionless-Software-Foundation/bch-js/issues/10,ChiliFeliz,github.com/theRealBitcoinClub
 Bch-js,Unconfirmed UTXOs,150,Done,https://github.com/Permissionless-Software-Foundation/bch-js/issues/11,Stoyan,https://github.com/zh
 Bch-js,TX History,200,Done,https://github.com/Permissionless-Software-Foundation/bch-js/issues/12,Stoyan,https://github.com/zh
-Bch-js,TX Details,200,In Progress,https://github.com/Permissionless-Software-Foundation/bch-js/issues/13,Stoyan,https://github.com/zh
+Bch-js,TX Details,200,Done,https://github.com/Permissionless-Software-Foundation/bch-js/issues/13,Stoyan,https://github.com/zh
 Slp-cli-wallet,Get list-wallets command to 100% test coverage,100,Done,https://github.com/christroutner/slp-cli-wallet/issues/20,Stoyan,https://github.com/zh
 Slp-cli-wallet,Get create-wallet command to 100% test coverage,100,Done,https://github.com/christroutner/slp-cli-wallet/issues/21,Stoyan,https://github.com/zh
 Slp-cli-wallet,Get get-address command to 100% test coverage,100,Done,https://github.com/christroutner/slp-cli-wallet/issues/22,Stoyan,https://github.com/zh
