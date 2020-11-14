@@ -11,4 +11,4 @@ Slp-cli-wallet,Get create-wallet command to 100% test coverage,100,Done,https://
 Slp-cli-wallet,Get get-address command to 100% test coverage,100,Done,https://github.com/christroutner/slp-cli-wallet/issues/22,Stoyan,https://github.com/zh
 Slp-cli-wallet,Get util.js to 100% test coverage,200,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/8,,
 Slp-cli-wallet,Get derivation command to 100% test coverage,125,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/9,ChiliFeliz,github.com/theRealBitcoinClub
-Slp-cli-wallet,Get get-key command to 100% test coverage,125,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/9,,
+Slp-cli-wallet,Get get-key command to 100% test coverage,125,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/10,,
