@@ -11,4 +11,11 @@ Slp-cli-wallet,Get create-wallet command to 100% test coverage,100,Done,https://
 Slp-cli-wallet,Get get-address command to 100% test coverage,100,Done,https://github.com/christroutner/slp-cli-wallet/issues/22,Stoyan,https://github.com/zh
 Slp-cli-wallet,Get util.js to 100% test coverage,200,Done,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/8,Stoyan,https://github.com/zh
 Slp-cli-wallet,Get derivation command to 100% test coverage,125,Done,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/9,ChiliFeliz,github.com/theRealBitcoinClub
-Slp-cli-wallet,Get get-key command to 100% test coverage,125,In Progress,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/10,Stoyan,https://github.com/zh
+Slp-cli-wallet,Get get-key command to 100% test coverage,125,Done,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/10,Stoyan,https://github.com/zh
+Slp-cli-wallet,Get remove-wallet command to 100% test coverage,100,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/17,,
+Slp-cli-wallet,Get send-all command to 100% test coverage,125,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/19,,
+Slp-cli-wallet,Get send-tokens command to 100% test coverage,125,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/20,,
+Slp-cli-wallet,Get send command to 100% unit test coverage,125,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/21,,
+Slp-cli-wallet,Get sign-message command to 100% unit test coverage,125,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/22,,
+Slp-cli-wallet,get update-balances command to 100% unit test coverage,125,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/24,,
+Slp-cli-wallet,Get sweep command to 100% unit test coverage,200,Ready,https://github.com/Permissionless-Software-Foundation/slp-cli-wallet/issues/25,,
