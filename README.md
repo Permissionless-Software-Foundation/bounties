@@ -6,7 +6,7 @@ This is a non-code repository. This repository is used to list and track code bo
 
 Here is a list of the bounties that can be started and claimed:
 
-- [Multisig Minting](./bounties/multisig-minting.md)
+- [Multisig Minting](./bounties/active/multisig-minting.md)
 
 ## Contact and Information
 
