@@ -8,7 +8,7 @@ The PSF aspires to be a DAO, and in order to do that, we need to decentralized t
 
 ## Scope
 
-The slpjs JavaScript library has a [2-of-2 multisig SEND example](https://github.com/simpleledger/slpjs#send---send-tokens-from-2-of-2-multisig-p2sh). Minting tokens with a MINT command is similar to sending tokens with a SEND command. The primary difference being the content of the OP_RETURN code. But the mechanics of constructing a multisig transaction are the same. This code example provides a great starting point for research.
+The slpjs JavaScript library has a [2-of-2 multisig SEND example](https://github.com/simpleledger/slpjs#send---send-tokens-from-2-of-2-multisig-p2sh). Minting tokens with a MINT command is similar to sending tokens with a SEND command, the primary difference being the content of the OP_RETURN. But the mechanics of constructing a multisig transaction are the same. This code example provides a great starting point for research.
 
 The code example needs the following changes to be useable by the PSF:
 
@@ -26,7 +26,7 @@ In order to eligible to collect this bounty, the following deliverables must be 
 - A JavaScript example script that can move the minting baton to a new address, with 3-of-5 signatures.
 - (optional) An npm library containing transaction helper methods, used by the above scripts.
 
-The above example scripts must been the following requirements:
+The above deliverables must meet the following requirements:
 
 - Use P2SH (pay to script hash) addresses.
 - Depends only on bch-js library, and does not depend on slpjs or BITBOX
