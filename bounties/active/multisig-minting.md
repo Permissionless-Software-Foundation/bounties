@@ -10,7 +10,9 @@ The PSF aspires to be a DAO, and in order to do that, we need to decentralized t
 
 The slpjs JavaScript library has a [2-of-2 multisig SEND example](https://github.com/simpleledger/slpjs#send---send-tokens-from-2-of-2-multisig-p2sh). Minting tokens with a MINT command is similar to sending tokens with a SEND command, the primary difference being the content of the OP_RETURN. But the mechanics of constructing a multisig transaction are the same. This code example provides a great starting point for research.
 
-The code example needs the following changes to be useable by the PSF:
+In addition, it may be necessary to generate a partially signed transaction. The [collaborative transaction code examples](https://github.com/Permissionless-Software-Foundation/bch-js-examples/tree/master/applications/collaborate) contain code for generating such transactions with bch-js.
+
+The slpjs code example needs the following changes to be usable by the PSF:
 
 - It should use bch-js instead of slpjs or BITBOX.
 - It should use bch-api and call api.fullstack.cash instead of rest.bitcoin.com.
