@@ -1,6 +1,8 @@
 # Circuit Relays
 
-**Bounty**: 15 PSF per month
+**Bounty**: 25 PSF per month
+
+- _Up to 5 bounties are available_
 
 ## Overview
 
@@ -12,6 +14,7 @@ The bounty is currently eligible for Circuit Relays set up in the following geog
 - Australia
 - South America
 - Mainland China
+- Africa
 
 ## Scope
 
@@ -25,7 +28,7 @@ An independent piece of software will collect hourly metrics on each Ciruit Rela
 
 In order to be eligible to collect this bounty, the following deliverables must be reviewed and accepted by the [Technical Steering Committee](https://github.com/Permissionless-Software-Foundation/TSC):
 
-- The Circuit Relay must have an ipv4 IP address accessible from the global internet. It must also have a domain name with an SSL certificate, to allow secure websocket connections. These two requirements will allow the software to achieve IPFS multiaddrs like this:
+- The Circuit Relay must have a permanent ipv4 IP address accessible from the global internet. It must also have a domain name with an SSL certificate, to allow secure websocket connections. These two requirements will allow the software to achieve IPFS multiaddrs like this:
   - `/ip4/157.90.28.11/tcp/4001/p2p/QmedLCUDSSvsjfPt9rDm65drNL7Dzu1mk1JCRxu9yuxgLL`
   - `/dns4/ipfs-service-provider.fullstackcash.nl/tcp/443/wss/ipfs/QmedLCUDSSvsjfPt9rDm65drNL7Dzu1mk1JCRxu9yuxgLL`
 - The Circuit Relay must achieve an uptime of 25 days within a month, based on collected metrics.
