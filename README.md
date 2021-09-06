@@ -6,6 +6,8 @@ This is a non-code repository. This repository is used to list and track code bo
 
 Here is a list of the bounties that can be started and claimed:
 
+- [Circuit Relay hosting](./bounties/active/circuit-relays.md)
+- [Wallet Service hosting](./bounties/active/wallet-service.md)
 - [Multisig Minting](./bounties/active/multisig-minting.md)
 
 ## Contact and Information
