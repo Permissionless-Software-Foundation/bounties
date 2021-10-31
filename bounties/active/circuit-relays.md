@@ -16,6 +16,12 @@ The bounty is currently eligible for Circuit Relays set up in the following geog
 - Mainland China
 - Africa
 
+## Step-by-Step Directions
+Two videos have been created to help people set up Circuit Relays and claim this bounty:
+
+- [Setting up a Circuit Relay](https://youtu.be/Z0NsboIVN44)
+- [Setting up an SSL Certificate](https://youtu.be/3UsgCUPFmx0)
+
 ## Scope
 
 The scope of the work is to set up and maintain an [ipfs-service-provider](https://github.com/Permissionless-Software-Foundation/ipfs-service-provider) in Circuit Relay mode. An independent metrics service will monitor the uptime and availability of the software, and bounties will be rewarded each month if the software meets the required deliverables.
