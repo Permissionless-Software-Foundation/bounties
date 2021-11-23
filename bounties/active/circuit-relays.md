@@ -37,5 +37,7 @@ In order to be eligible to collect this bounty, the following deliverables must 
 - The Circuit Relay must have a permanent ipv4 IP address accessible from the global internet. It must also have a domain name with an SSL certificate, to allow secure websocket connections. These two requirements will allow the software to achieve IPFS multiaddrs like this:
   - `/ip4/157.90.28.11/tcp/4001/p2p/QmedLCUDSSvsjfPt9rDm65drNL7Dzu1mk1JCRxu9yuxgLL`
   - `/dns4/ipfs-service-provider.fullstackcash.nl/tcp/443/wss/ipfs/QmedLCUDSSvsjfPt9rDm65drNL7Dzu1mk1JCRxu9yuxgLL`
-- The Circuit Relay must achieve an uptime of 25 days within a month, based on collected metrics.
+- The Circuit Relay must achieve an uptime of 25 days within a month, based on collected metrics:
+  - The Circuit Relay must show connectivity for browser-based IPFS nodes, according to [this diagnostics page](https://check-crs.fullstack.cash/).
+  - Uptime for the Circuit Relay will be reported on [explorer.fullstack.cash](https://explorer.fullstack.cash).
 - The operator is required to update the software at least once per month, by pulling the latest code from GitHub.
