@@ -1,6 +1,6 @@
 # Multi-signature Minting
 
-**Bounty**: 1,000 PSF
+**Bounty**: 4,000 PSF
 
 ## Overview
 
