@@ -33,3 +33,7 @@ The above deliverables must meet the following requirements:
 - Use P2SH (pay to script hash) addresses.
 - Depends only on bch-js library, and does not depend on slpjs or BITBOX
 - Can generate the multisig scriptsig required for multisignature transactions.
+
+## Completion Information
+
+This bounty was completed. Through the combined effort of PSF members trout, Stoyan, and Sam, we now have the ability to execute SLP minting operations from a multisignature wallet. This research is being developed into [psf-multisig-minting](https://github.com/Permissionless-Software-Foundation/psf-multisig-minting) wallet CLI app.
