@@ -12,7 +12,6 @@ The scope of this task is to add five commands to psf-bch-wallet:
 - **token-create-group** - Creates a new Group token class.
 - **token-create-nft** - Creates a new NFT by consuming a Group token.
 - **token-mint** - Mint new fungible or Group tokens.
-- **send-baton** - Send a minting baton to a new address.
 - Update wallet to use Web 2 infrastructure
 
 ## Deliverables
