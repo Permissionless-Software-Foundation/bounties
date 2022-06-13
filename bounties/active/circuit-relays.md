@@ -4,6 +4,8 @@
 
 - _Up to 5 bounties are available_
 
+**Currently Inactive**
+
 ## Overview
 
 The PSF community uses blockchain-services delivered over the IPFS network. In order for users to consume these services, a robust network of [Circuit Relays](https://docs.libp2p.io/concepts/circuit-relay/) is required to help connect consumer nodes with service provider nodes across the mesh network. These Circuit Relays provide an essential networking component. They are not expensive to operate, but have specific requirements. This bounty will pay operators to setup and maintain Circuit Relays for the good of the PSF community.
